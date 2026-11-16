@@ -1,0 +1,11 @@
+# TASKS
+- [ ] 1. Struktur HTML dasar dan navigasi Katalog/Dashboard
+- [ ] 2. Data produk awal dan tampilan katalog
+- [ ] 3. Form tambah produk
+- [ ] 4. Ubah dan hapus produk
+- [ ] 5. Simpan ke localStorage + validasi
+- [ ] 6. Import/export JSON
+- [ ] 7. Tombol WhatsApp
+- [ ] 8. Unit test dengan Vitest
+- [ ] 9. Audit keamanan dasar
+- [ ] 10. Deploy dan dokumentasi batasan
